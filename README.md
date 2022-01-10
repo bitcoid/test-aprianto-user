@@ -9,7 +9,7 @@
     install SQL database <i> laporbosqu_vers_0_1.sql </i>   <b> ( letak file ada di root folder ) </b> 
 </p>
 
-#jalankan aplikasi
+#jalankan aplikasi command prompt
 <p style="background:black; color:white;">
     <b>php artisan serve </b> 
 </p>
