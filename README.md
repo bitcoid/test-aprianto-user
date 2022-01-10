@@ -1,7 +1,7 @@
 #install node modules
  
 <p style="background:black; color:white;">
- npm install 
+    <b> npm install </b> 
 </p>
 
 #install database
