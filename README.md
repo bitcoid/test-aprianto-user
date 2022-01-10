@@ -5,12 +5,20 @@
 </p>
 
 #install database
-install SQL database laporbosqu_vers_0_1.sql ( letak file ada di root folder ) 
+<p style="background:black; color:white;">
+    install SQL database <i> laporbosqu_vers_0_1.sql </i>   <b> ( letak file ada di root folder ) </b> 
+</p>
 
 #jalankan aplikasi
-php artisan serve
+<p style="background:black; color:white;">
+    <b>php artisan serve </b> 
+</p>
+
 
 #login
-user : admin@laporbosqu.com
-password : 12345678
+<p style="background:black; color:white;">
+    user : admin@laporbosqu.com
+    password : 12345678
+</p>
+
 
